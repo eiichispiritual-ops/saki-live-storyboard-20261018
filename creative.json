@@ -1,0 +1,287 @@
+{
+  "slides": [
+    {
+      "id": "15-1",
+      "day": "15",
+      "title": "感情だけで止める",
+      "src": "creative/15-1.svg",
+      "copy": "まじでやばいことが\n起きて……",
+      "end": 750,
+      "needsReplace": false,
+      "sticker": []
+    },
+    {
+      "id": "15-2",
+      "day": "15",
+      "title": "驚きの理由をすぐ見せる",
+      "src": "creative/15-2.svg",
+      "copy": "この数字の裏で、\n何を変えたのか。\nそこまで見たいよね。",
+      "end": 955,
+      "needsReplace": true,
+      "sticker": []
+    },
+    {
+      "id": "15-3",
+      "day": "15",
+      "title": "複数の実例から裏側へ",
+      "src": "creative/15-3.svg",
+      "copy": "見た目を真似する前に、\n「何を変えたか」。\nここを分けて見てみて。",
+      "end": 960,
+      "needsReplace": true,
+      "sticker": []
+    },
+    {
+      "id": "15-4",
+      "day": "15",
+      "title": "自分の失敗に結びつける",
+      "src": "creative/15-4.svg",
+      "copy": "AIに台本を頼んでも、\n\n『なんか違う…』って\n自分で直し続けること、ない？",
+      "end": 658,
+      "needsReplace": false,
+      "sticker": []
+    },
+    {
+      "id": "15-5",
+      "day": "15",
+      "title": "今日のうちに小さな答えを渡す",
+      "src": "creative/15-5.svg",
+      "copy": "AIに頼む前に、\n「誰の、どんな場面？」を\n具体的に渡す。\n\nまず、ここから。",
+      "end": 1026,
+      "needsReplace": false,
+      "sticker": []
+    },
+    {
+      "id": "15-6",
+      "day": "15",
+      "title": "明日の視聴理由を残す",
+      "src": "creative/15-6.svg",
+      "copy": "自分の投稿なら、\nどこを一番変えたい？\n\n明日は、渡す内容の組み立て方を\nもう少し見せるね。",
+      "end": 1148,
+      "needsReplace": false,
+      "sticker": [
+        "伸びる企画を選びたい",
+        "台本の修正を減らしたい",
+        "数字から改善を決めたい"
+      ]
+    },
+    {
+      "id": "16-1",
+      "day": "16",
+      "title": "本物の反響で続きを開く",
+      "src": "creative/16-1.svg",
+      "copy": "昨日の投稿の裏側。\n気になる所を、\n一つずつ見せるね。",
+      "end": 878,
+      "needsReplace": true,
+      "sticker": []
+    },
+    {
+      "id": "16-2",
+      "day": "16",
+      "title": "読者が聞きたい一問へ",
+      "src": "creative/16-2.svg",
+      "copy": "同じAIなのに、\n「なんか違う」が\nなくならないのはなぜ？",
+      "end": 878,
+      "needsReplace": true,
+      "sticker": []
+    },
+    {
+      "id": "16-3",
+      "day": "16",
+      "title": "約束した裏側を一部回収",
+      "src": "creative/16-3.svg",
+      "copy": "「台本を書いて」だけで\n終わらせない。\n誰の、どんな場面かまで。",
+      "end": 1242,
+      "needsReplace": true,
+      "sticker": []
+    },
+    {
+      "id": "16-4",
+      "day": "16",
+      "title": "再生の先の疑問も拾う",
+      "src": "creative/16-4.svg",
+      "copy": "伸びた。その先は？\n\n再生数と、\n仕事につながるまでの流れ。\n\n見ている所で、\n次の打ち手も変わります。",
+      "end": 1174,
+      "needsReplace": false,
+      "sticker": []
+    },
+    {
+      "id": "16-5",
+      "day": "16",
+      "title": "期待を一つの日時に集める",
+      "src": "creative/16-5.svg",
+      "copy": "最新インスタの運用、\n実物で、話します。\n\n10/18（日）12:00–18:00\n無料 YouTubeライブ\n伸びた投稿の判断／仕事につなぐ導線\nAIに渡す材料／修正の見方\nジャンル差と失敗から見直す所\n途中参加・退出OK／アーカイブなし",
+      "end": 1258,
+      "needsReplace": false,
+      "sticker": []
+    },
+    {
+      "id": "16-6",
+      "day": "16",
+      "title": "持ち帰れる判断を3つに",
+      "src": "creative/16-6.svg",
+      "copy": "明日から、どこを変える？\n\n① 伸びた投稿をどう分析するか\n② 仕事につなぐ導線をどう考えるか\n③ AIに何を渡し、どう直すか",
+      "end": 678,
+      "needsReplace": false,
+      "sticker": []
+    },
+    {
+      "id": "16-7",
+      "day": "16",
+      "title": "一つの導線へ",
+      "src": "creative/16-7.svg",
+      "copy": "当日の時間割と\n視聴URLは、ここで案内します。\n\n自分が聞きたい話の時間、\n先に見ておいてね。",
+      "end": 743,
+      "needsReplace": false,
+      "sticker": [
+        "視聴先リンク"
+      ]
+    },
+    {
+      "id": "17-1",
+      "day": "17",
+      "title": "集まる人と準備を実況",
+      "src": "creative/17-1.svg",
+      "copy": "明日、何が分かる？\n先に、見せる内容を\nもう少しだけ。",
+      "end": 878,
+      "needsReplace": true,
+      "sticker": []
+    },
+    {
+      "id": "17-2",
+      "day": "17",
+      "title": "ジャンルの違いと失敗へ",
+      "src": "creative/17-2.svg",
+      "copy": "同じ型、\n別ジャンルならどう変える？\n\n伸びた例も、外した例も。\n判断した理由まで話します。",
+      "end": 1026,
+      "needsReplace": true,
+      "sticker": []
+    },
+    {
+      "id": "17-3",
+      "day": "17",
+      "title": "明日見られる実演を覗かせる",
+      "src": "creative/17-3.svg",
+      "copy": "AIの操作も、\n画面で順番に見せます。\n\n最初に何を渡して、\nどこを見て直すのか。",
+      "end": 1026,
+      "needsReplace": true,
+      "sticker": []
+    },
+    {
+      "id": "17-4",
+      "day": "17",
+      "title": "期待を予定に変える",
+      "src": "creative/17-4.svg",
+      "copy": "明日、聞きたい話は\nこの時間に。",
+      "end": 804,
+      "needsReplace": false,
+      "sticker": []
+    },
+    {
+      "id": "17-5",
+      "day": "17",
+      "title": "参加を想像してもらう",
+      "src": "creative/17-5.svg",
+      "copy": "何時ごろからなら\n見られそう？\n\n途中参加・途中退出OKです。",
+      "end": 1214,
+      "needsReplace": false,
+      "sticker": [
+        "12時ごろ",
+        "14時ごろ",
+        "16時ごろ",
+        "まだ分からない"
+      ]
+    },
+    {
+      "id": "17-6",
+      "day": "17",
+      "title": "明日見る理由を締める",
+      "src": "creative/17-6.svg",
+      "copy": "最新インスタの運用、\n実物で、話します。\n\n10/18（日）12:00–18:00\n無料 YouTubeライブ\n伸びた投稿の判断／仕事につなぐ導線\nAIに渡す材料／修正の見方\nジャンル差と失敗から見直す所\n途中参加・退出OK／アーカイブなし\n明日、実物を見ながら一緒に。",
+      "end": 1258,
+      "needsReplace": false,
+      "sticker": [
+        "視聴先リンク"
+      ]
+    },
+    {
+      "id": "18-1",
+      "day": "18",
+      "title": "今日見る理由を再点火",
+      "src": "creative/18-1.svg",
+      "copy": "今日12時から。\n\nあの投稿の裏側を、\n実物で見せながら話します。",
+      "end": 952,
+      "needsReplace": false,
+      "sticker": [
+        "視聴先リンク"
+      ]
+    },
+    {
+      "id": "18-2",
+      "day": "18",
+      "title": "始まる実感を見せる",
+      "src": "creative/18-2.svg",
+      "copy": "まもなく12時。\n無料のYouTubeライブ、\nここから始まります。",
+      "end": 812,
+      "needsReplace": true,
+      "sticker": [
+        "視聴先リンク"
+      ]
+    },
+    {
+      "id": "18-3",
+      "day": "18",
+      "title": "途中参加の山を作る",
+      "src": "creative/18-3.svg",
+      "copy": "みさをさんとの対談も。\n実際の進行に合わせて、\nこのあとの内容を案内します。",
+      "end": 812,
+      "needsReplace": true,
+      "sticker": [
+        "視聴先リンク"
+      ]
+    },
+    {
+      "id": "18-4",
+      "day": "18",
+      "title": "反応を次の参加へ変える",
+      "src": "creative/18-4.svg",
+      "copy": "今からでも、途中参加OK。\nいま話している内容は、\n専用オプチャから確認できます。",
+      "end": 878,
+      "needsReplace": true,
+      "sticker": [
+        "視聴先リンク"
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "id": "input",
+      "title": "AIに渡す材料シート",
+      "src": "creative/material-input.svg"
+    },
+    {
+      "id": "compare",
+      "title": "入力と出力の比較例",
+      "src": "creative/material-compare.svg"
+    },
+    {
+      "id": "review",
+      "title": "投稿を見直す観点シート",
+      "src": "creative/material-review.svg"
+    },
+    {
+      "id": "route",
+      "title": "投稿から次の行動への点検",
+      "src": "creative/material-route.svg"
+    },
+    {
+      "id": "genre",
+      "title": "ジャンル転用の比較シート",
+      "src": "creative/material-genre.svg"
+    },
+    {
+      "id": "live-plan",
+      "title": "10/18 本番進行の仮案",
+      "src": "creative/material-live-plan.svg"
+    }
+  ]
+}
