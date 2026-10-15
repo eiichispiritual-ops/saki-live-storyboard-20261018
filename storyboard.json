@@ -1199,8 +1199,21 @@
     "archive": false,
     "guest": "みさをさん：14〜15時ごろ予定",
     "openchat": "https://line.me/ti/g2/O2fhDiofdH06JFG5kf0MLYZi3_qls3xdLZThhQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
-    "youtube": null,
-    "topicTimes": null
+    "youtube": "https://www.youtube.com/@sakisns_ad",
+    "topicTimes": null,
+    "gift": {
+      "offered": true,
+      "detail": null,
+      "condition": null,
+      "source": "2026-10-15最新ユーザー指示：特別なプレゼントあり"
+    },
+    "cumulative_revenue": "インスタ累計売上15億円",
+    "annual_revenue": "年商8億円",
+    "script_count": {
+      "accounts": 20,
+      "scripts": 400,
+      "period": null
+    }
   },
   "promiseBrief": [
     {
